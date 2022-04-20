@@ -1,0 +1,15 @@
+C:\Users\444\Desktop\учеба\C#\Home_Work\Home_Work_3\HW2_zadacha_21\obj\Debug\net6.0\HW2_zadacha_21.csproj.AssemblyReference.cache
+C:\Users\444\Desktop\учеба\C#\Home_Work\Home_Work_3\HW2_zadacha_21\obj\Debug\net6.0\HW2_zadacha_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\444\Desktop\учеба\C#\Home_Work\Home_Work_3\HW2_zadacha_21\obj\Debug\net6.0\HW2_zadacha_21.AssemblyInfoInputs.cache
+C:\Users\444\Desktop\учеба\C#\Home_Work\Home_Work_3\HW2_zadacha_21\obj\Debug\net6.0\HW2_zadacha_21.AssemblyInfo.cs
+C:\Users\444\Desktop\учеба\C#\Home_Work\Home_Work_3\HW2_zadacha_21\obj\Debug\net6.0\HW2_zadacha_21.csproj.CoreCompileInputs.cache
+C:\Users\444\Desktop\учеба\C#\Home_Work\Home_Work_3\HW2_zadacha_21\bin\Debug\net6.0\HW2_zadacha_21.exe
+C:\Users\444\Desktop\учеба\C#\Home_Work\Home_Work_3\HW2_zadacha_21\bin\Debug\net6.0\HW2_zadacha_21.deps.json
+C:\Users\444\Desktop\учеба\C#\Home_Work\Home_Work_3\HW2_zadacha_21\bin\Debug\net6.0\HW2_zadacha_21.runtimeconfig.json
+C:\Users\444\Desktop\учеба\C#\Home_Work\Home_Work_3\HW2_zadacha_21\bin\Debug\net6.0\HW2_zadacha_21.dll
+C:\Users\444\Desktop\учеба\C#\Home_Work\Home_Work_3\HW2_zadacha_21\bin\Debug\net6.0\HW2_zadacha_21.pdb
+C:\Users\444\Desktop\учеба\C#\Home_Work\Home_Work_3\HW2_zadacha_21\obj\Debug\net6.0\HW2_zadacha_21.dll
+C:\Users\444\Desktop\учеба\C#\Home_Work\Home_Work_3\HW2_zadacha_21\obj\Debug\net6.0\refint\HW2_zadacha_21.dll
+C:\Users\444\Desktop\учеба\C#\Home_Work\Home_Work_3\HW2_zadacha_21\obj\Debug\net6.0\HW2_zadacha_21.pdb
+C:\Users\444\Desktop\учеба\C#\Home_Work\Home_Work_3\HW2_zadacha_21\obj\Debug\net6.0\HW2_zadacha_21.genruntimeconfig.cache
+C:\Users\444\Desktop\учеба\C#\Home_Work\Home_Work_3\HW2_zadacha_21\obj\Debug\net6.0\ref\HW2_zadacha_21.dll
